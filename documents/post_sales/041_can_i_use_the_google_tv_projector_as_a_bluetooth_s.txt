@@ -1,0 +1,17 @@
+FAQ: Can I use the Google TV projector as a Bluetooth speaker?
+──────────────────────────────────────────────────
+Yes, it is possible to do so. The projector supports both “
+Bluetooth speaker
+” mode and “
+” mode.
+1. Go to Settings > Projector > Bluetooth Speaker Mode.
+2. Find the device "
+BenQXX
+" on your phone and pair it with.
+* The device name will be changed based on your personal adjustments (Home & Room naming settings) during the set-up wizard.
+3. To exit the Bluetooth Speaker Mode, simply press “
+” for two seconds.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

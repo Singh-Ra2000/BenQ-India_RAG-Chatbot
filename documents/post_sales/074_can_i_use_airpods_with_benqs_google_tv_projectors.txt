@@ -1,0 +1,12 @@
+FAQ: Can I use AirPods with BenQ's Google TV projectors?
+──────────────────────────────────────────────────
+1. Put both AirPods in their charging case and make sure that both AirPods are charging.
+2. Open the lid of the AirPods case, and then press and hold the setup button on the case for up to ten seconds. The status light should flash white, which means that your AirPods are ready to connect.
+3. Go to Settings > Remotes and Accessories > Pair Accessories to add accessories to connect the AirPods.
+NOTE:
+• There might be latency with Bluetooth that causes some audio lag when watching movies.
+• You can only connect ONE audio Bluetooth device at a time. If you are using different Bluetooth devices, please connect again.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

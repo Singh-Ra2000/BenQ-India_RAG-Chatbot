@@ -1,0 +1,16 @@
+FAQ: If I use battery mode, will it impact the image brightness of GV50?
+──────────────────────────────────────────────────
+Auto Mode
+: The projector detects the power supply voltage and adjusts the screen brightness accordingly. Brightness can be reduced by selecting Eco or Custom modes.
+With Supplied Adapter
+: The screen's peak brightness reaches 100%.
+With Built-in Battery
+General brightness is 70%.
+If battery power is less than 20%, the peak brightness reduces to 20%.
+With Power Bank via USB-C
+For power banks supplying between 45W (20V2.25A) and 65W (20V3.25A), the peak brightness is 20%.
+For power banks supplying more than 65W (20V3.25A), the peak brightness is 100%.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

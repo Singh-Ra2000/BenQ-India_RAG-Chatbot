@@ -1,0 +1,17 @@
+FAQ: How to mirror the screen of your Windows desktop to the BenQ Google TV projector?
+──────────────────────────────────────────────────
+Please follow the steps below to mirror the screen of your Windows desktop to the BenQ Google TV projector:
+STEP 1
+Connect your Windows device to the same Wi-FI network as your Google TV projector
+Check the Wi-FI network your Google TV projector is using:
+Home screen of Google TV > Settings > Wi-Fi
+STEP 2
+Open the Google Chrome browser, go to More, and select Cast, save, and share
+STEP 3
+Click Cast
+Click Sources to select Cast Screen
+Click BenQGV01 to cast your device screen
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

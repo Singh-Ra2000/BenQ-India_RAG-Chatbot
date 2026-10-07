@@ -1,0 +1,64 @@
+PRODUCT SPECIFICATIONS: BenQ GV32 Specifications
+=======================================================
+Source: BenQ India — benq.com
+=======================================================
+Change your region to view content applicable to your location and shop online.: Sorry, our service is not available in your location.
+Specifications: All Specifications
+Display: Brightness (ANSI lumens)
+500: Resolution
+1080P (1920x1080): Native Aspect Ratio
+16:9
+Contrast Ratio (FOFO): 100,000:1
+Display Color: 24-bit (16.7 million colors)
+Light Source: LED
+Light Source Life: a. Normal 20000 hrs, b. ECO 30000 hrs
+Optical: Throw Ratio
+1.2: Zoom Ratio
+Fixed: Lens
+F/#=1.7; f=6.28mm: Projection Offset  (Full-Height)
+100%: Keystone Adjustment
+2D, (Auto) Vertical ± 20 degrees, Horizontal ±30 degrees, Rotation ± 30 degrees(distance to the wall by projection direction: within 2M); 2D, (Manual) Vertical & Horizontal & Rotation ± 40 degrees
+Picture: Rec. 709 Coverage
+95%: Picture Modes
+Custom, HDR Custom, HDR Night Shift, HDR Vibrant, HLG Custom, Night Shift, Vibrant, Bright, Cinema, Game, HDR Cinema, HDR Game, HDR10, HLG
+Compatibility: Input Lag
+22.4ms (1080P 60Hz): Resolution Support
+VGA (640 x 480) to 4K UHD (3840 x 2160): Horizontal Frequency
+15K~135KHz: Vertical Scan Rate
+22~62Hz: I/O Interface
+HDMI in: (x1), HDMI-1 (2.0b/HDCP2.3)
+USB Type A: (x1), USB Type A-1 (2.0/Power Supply1.0A/Reader/FW Upgrade)
+USB Type C: Display Port / PD in 20V-3A to 5A / PD out 5V-1.5A, 9V-1A, (x1)
+Audio: Speaker
+(x2), 4W: Woofer
+10W Chamber: Audio out (3.5mm Mini Jack)
+(x1): HDMI Audio Return
+ARC, 5.1 channel: Environment
+Operating Temperature: 0~35℃
+Power Supply: AC 100 to 240 V, 50/60 Hz
+Typical Power Consumption (110V): 80W@100 ~ 240VAC
+Stand-by Power Consumption: <0.5W
+Network Stand-by Power Consumption: <2W
+Acoustic Noise (Typ./Eco.)(dB): 26dBA/24dBA
+Accessories: Carry Bag
+(Optional): Remote Control w/ Battery
+RCI078: Power Cord (by region)
+x1 (1.8M): Quick Start Guide
+(x1) 1L: Warranty Card (by region)
+Yes: Onscreen Display
+Launcher: Smart Home
+Smart System: Built-in OS
+Yes, Google TV (Android 11): Bluetooth
+Yes, Bluetooth 5.0: Wi-Fi Standard
+802.11 a/b/g/n/ac (2.4G/5G): Wireless Projection
+Compatible with iOS mirroring, Google Cast: Preload Apps
+BenQ Projector Assistant/ Screen Sharing for iOS/ BenQ Notification/ BenQ User Dashboard/ BenQ Remote Control Updater/ VLC
+Dimension & Weight: Dimensions  (WxHxD) (mm)
+130.0(W) x 211.2(H) x 191.4(D): Net Weight (kg)
+1.6: Dimensions (WxHXD) (inch)
+5.12(W) x 8.31(H) x 7.54(D): Net Weight (lb)
+3.5: Projection System
+Projection System: DLP
+FAQ: Have a question?
+Learn more: Download
+Find the latest user manual: Learn more

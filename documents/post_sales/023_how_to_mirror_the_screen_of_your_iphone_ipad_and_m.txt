@@ -1,0 +1,28 @@
+FAQ: How to mirror the screen of your iPhone, iPad, and MacBook to the BenQ Google TV projector?
+──────────────────────────────────────────────────
+Please follow the steps below to mirror the screen of your iPhone, iPad, and MacBook to the BenQ Google TV projector:
+STEP 1
+Go to Settings
+Click All settings
+STEP 2
+Go to Projector
+Select Advanced Settings
+STEP 3
+Click Screen Sharing for iOS
+You will be directed to Play Store as the following picture if Screen sharing for iOS is not installed on your Google TV. Click Install to install Screen sharing for iOS
+STEP 4
+Click Open to run Screen sharing for iOS
+Click Agree
+STEP 5
+Select Go to Settings
+Scroll down to Screen sharing for iOS
+STEP 6
+Click OK on the remote to enable Screen sharing for iOS, then press Back on the remote
+Select While using the app
+STEP 7
+Go to Control Center on your iPhone, iPad, or MacBook, and tap/select screen mirroring. Select BenQGV01 to mirror the screen of your iPhone, iPad, or MacBook
+You would see the following picture once the screen of your iPhone, iPad, or MacBook is successfully mirrored to your Google TV projector.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

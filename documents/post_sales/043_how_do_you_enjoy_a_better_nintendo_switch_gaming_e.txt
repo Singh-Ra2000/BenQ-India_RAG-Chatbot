@@ -1,0 +1,12 @@
+FAQ: How do you enjoy a better Nintendo Switch gaming experience with the GV50 Portable Projector?
+──────────────────────────────────────────────────
+The input lag of the GV50 projector is 22.4 ms (1080p@60Hz) under the "Game Boost" picture mode and we suggest placing the projector right in front of the screen since all image corrections will be reset and not adjustable for ultra-low latency.
+NOTE:
+The picture modes above can only be selected when an HDMI/USB-C source is connected.
+To activate the "Game-Boost" or "HDR Game-Boost" setting via the remote control: Go to Settings > Display and Sound > Picture > Picture Mode.
+For more details on upgrading the firmware please refer to :
+https://www.benq.com/en-us/support/downloads-faq/faq/product/application/projector-faq-kn-00067.html
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having
