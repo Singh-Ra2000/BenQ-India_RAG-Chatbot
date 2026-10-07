@@ -1,8 +1,0 @@
-FAQ: How can I enable developer mode on Android TV and Google TV?
-──────────────────────────────────────────────────
-Thank you for your support and interest in our product.
-Developer mode is for BenQ internal use only to ensure the stability and security of Android TV and Google TV, allowing us to provide the highest quality experience for all users. We are continually optimizing and updating product features to meet your needs. If you have any suggestions or need assistance, we are more than happy to help.
-Yes
-Thanks for letting us know. How would you describe this FAQ?
-Irrelevant: it doesn't match what I searched for
-It did not solve the issue I'm having

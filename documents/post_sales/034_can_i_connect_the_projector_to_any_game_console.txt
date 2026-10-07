@@ -1,9 +1,0 @@
-FAQ: Can I connect the projector to any game console?
-──────────────────────────────────────────────────
-Yes, you can connect the projector to a Switch, PS4/PS5, and Xbox console using an HDMI cable.
-Yes, you can connect a Nintendo Switch (Switch Lite is not supported) directly to the projector via a USB-C cable.
-NOTE: Make sure the cable supports DisplayPort Alt Mode, has a power delivery of 15 V / 1.2 V at 18 W, and has USB-IF certification.
-Yes
-Thanks for letting us know. How would you describe this FAQ?
-Irrelevant: it doesn't match what I searched for
-It did not solve the issue I'm having

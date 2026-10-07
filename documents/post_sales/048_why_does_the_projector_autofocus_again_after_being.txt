@@ -1,7 +1,0 @@
-FAQ: Why does the projector auto-focus again after being powered on or awake from standby mode for around 15 minutes?
-──────────────────────────────────────────────────
-The projector will apply the Auto Focus for a few seconds once it is powered on, and it will apply the Auto Focus again for around 15 minutes for a better user experience after being powered on again or awake from standby mode.
-Yes
-Thanks for letting us know. How would you describe this FAQ?
-Irrelevant: it doesn't match what I searched for
-It did not solve the issue I'm having

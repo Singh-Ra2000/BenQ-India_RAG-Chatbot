@@ -1,8 +1,0 @@
-FAQ: What about power delivery (PD-Out) by the GV50 via a USB-C cable?
-──────────────────────────────────────────────────
-The projector is able to supply power to a connected USB-C device that is USB-IF certified, with a maximum power delivery of 18W.
-The supported output power specifications are: 5 V / 2 A, 9 V / 2 A, 1 2V / 1.5 A, and 15 V / 1.2 A.
-Yes
-Thanks for letting us know. How would you describe this FAQ?
-Irrelevant: it doesn't match what I searched for
-It did not solve the issue I'm having

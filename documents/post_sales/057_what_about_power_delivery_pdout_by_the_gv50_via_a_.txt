@@ -1,7 +1,0 @@
-FAQ: What about power delivery (PD-Out) by the GV50 via a USB-C cable?
-──────────────────────────────────────────────────
-The supported output power specifications are: 5 V / 2 A, 9 V / 2 A, 1 2V / 1.5 A, and 15 V / 1.2 A.
-Yes
-Thanks for letting us know. How would you describe this FAQ?
-Irrelevant: it doesn't match what I searched for
-It did not solve the issue I'm having

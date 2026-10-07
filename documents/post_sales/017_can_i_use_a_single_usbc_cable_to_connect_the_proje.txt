@@ -1,7 +1,0 @@
-FAQ: Can I use a single USB-C cable to connect the projector to a Nintendo Switch?
-──────────────────────────────────────────────────
-Yes, you can connect the projector to a Nintendo Switch via a single USB-C cable. The projector will support direct streaming from the Nintendo Switch to the screen while charging the Nintendo Switch at the same time. This feature works only when the adapter is plugged in.
-Yes
-Thanks for letting us know. How would you describe this FAQ?
-Irrelevant: it doesn't match what I searched for
-It did not solve the issue I'm having
