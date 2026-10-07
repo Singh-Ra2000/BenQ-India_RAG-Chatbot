@@ -1,0 +1,7 @@
+FAQ: Can I use voice control on the projector through Google Assistant?
+──────────────────────────────────────────────────
+Yes. Google Assistant can be used to access apps in areas where it's available. The projector comes with a Bluetooth remote control. Make sure the remote control is connected to the projector via Bluetooth, and then hold the mic button on the remote control to start a voice search.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

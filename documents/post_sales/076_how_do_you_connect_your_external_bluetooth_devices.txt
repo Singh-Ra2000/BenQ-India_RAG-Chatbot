@@ -1,0 +1,11 @@
+FAQ: How do you connect your external Bluetooth devices with the Google TV? Will there be any audio lag?
+──────────────────────────────────────────────────
+1. Activate the Bluetooth-pairing mode of your external Bluetooth devices.
+2. Go to Settings > Remotes and Accessories > Pair Accessories to add accessories to connect the AirPods.
+NOTE:
+• If you want to connect to external Bluetooth speakers or headphones, there will be a minor audio lag of around 300 ms. It is okay for listening to music but you may experience minor latency while watching movies.
+• You can only connect ONE audio Bluetooth device at a time. If you are using different Bluetooth devices, please connect again.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

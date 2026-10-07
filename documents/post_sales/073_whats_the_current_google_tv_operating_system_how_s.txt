@@ -1,0 +1,7 @@
+FAQ: What’s the current Google TV operating system? How should I update to the next version once it is available?
+──────────────────────────────────────────────────
+When there is a new firmware update available, you will receive a notification on the Google TV home page, please kindly follow the instructions and complete the upgrade procedure.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

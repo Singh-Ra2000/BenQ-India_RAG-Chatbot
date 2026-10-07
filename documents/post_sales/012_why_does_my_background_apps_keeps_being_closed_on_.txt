@@ -1,0 +1,9 @@
+FAQ: Why does my background apps keeps being closed on Google TV or Android TV?
+──────────────────────────────────────────────────
+If you notice that your background applications or VPN apps are closing automatically, please be assured that this is not a malfunction of your system. It is a normal behavior of the Google/Android operating system.
+Google TV and Android TV are designed to efficiently manage their limited memory. To ensure optimal performance and conserve power, these systems automatically close background applications. This feature is part of the Android operating system's strategy to optimize resource usage.
+We understand that this can be inconvenient, and we are actively looking into ways to improve this in future updates. However, since this is a core function of the operating system, there are limited options for preventing this behavior on current models.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

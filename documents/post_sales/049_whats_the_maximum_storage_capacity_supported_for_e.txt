@@ -1,0 +1,7 @@
+FAQ: What’s the maximum storage capacity supported for external hard drives / external HDD / external SSD?
+──────────────────────────────────────────────────
+You can connect one external hard drive to the projector, with a maximum supported capacity of 2TB. The projector supports commonly used USB external storage devices, including USB external hard drives, external HDDs, portable hard drives, and external SSDs up to 2TB.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

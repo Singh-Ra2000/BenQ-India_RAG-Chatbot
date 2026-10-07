@@ -1,0 +1,7 @@
+FAQ: Does the projector support screen-mirroring from a smartphone or laptop via a USB-C cable?
+──────────────────────────────────────────────────
+Yes, this feature is supported, but please note that devices connected via the USB-C port require a USB-C cable and must support DisplayPort Alt Mode (version 1.1 or above) to project videos. In terms of the specifications for the USB-C cable, please choose a cable with USB-IF certification.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

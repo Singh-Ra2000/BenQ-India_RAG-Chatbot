@@ -1,0 +1,24 @@
+FAQ: Is screen sharing possible in a Wi-Fi-less environment?
+──────────────────────────────────────────────────
+Screen sharing in a Wi-Fi-less environment can be set up via the three different setup scenarios and the subsequent instructions described below.
+Scenario A (A network configuration set up using two devices):
+Device 1: Projector with Google TV OS.
+Device 2: Smartphone acting as a Wi-Fi access point (sharing a hotspot with stable 45/5G Internet).
+Use Device 2 to cast media content onto Device 1.
+Scenario B (A network configuration set up using three devices):
+Device 3: Smart device (cellphones/ tablets) that you wish to cast media content with.
+Use Device 3 to cast media content onto Device 1.
+For Android devices:
+Please choose scenario B to run casting since the Google-related casting service is not available for a two-device configuration (Scenario A).
+Make sure Device 1 and Device 3 are connected to the same hotspot shared by Device 2.
+Make sure your projector stays on the Google TV home page.
+Download the Google Home app from the Google Play Store on your Android devices.
+Find the corresponding BenQ Google TV device name (e.g. BenQGV01 for BenQ GV50 Projector) in the Device section of Google Home to begin casting.
+For iOS/macOS  devices:
+Scenario A and B can be run in a Wi-Fi-less environment, if your Device 2 is not able to provide a stable 45/5G Internet hotspot, only local media can be cast.
+Go to Home > APPS > Screen Sharing for iOS or go to Settings > Projector > Advanced > Screen Sharing for iOS.
+Follow the on-screen instructions and cast/mirror your iOS device via Airplay.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having

@@ -1,0 +1,13 @@
+FAQ: My Bluetooth headphones can't pair with the projector successfully. What can I do to fix this?
+──────────────────────────────────────────────────
+Please follow the below steps.
+1. Reboot the projector as well as reset the Bluetooth headphones you're
+trying to connect.
+2. Let the Bluetooth headphones enter paring mode first.
+3. Right after the Bluetooth headphones enter pairing mode, let the QS02
+Android TV dongle search for Bluetooth devices.
+4. Wait 1 minute while the dongle detects new devices.
+Yes
+Thanks for letting us know. How would you describe this FAQ?
+Irrelevant: it doesn't match what I searched for
+It did not solve the issue I'm having
